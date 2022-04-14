@@ -1,5 +1,4 @@
 ### Hi, I’m Madhan
-- 🔭 Working as Cloud Engineer [@Streamgaming](https://www.streamgaming.id/)
 - 👀 I’m interested in Programming and DevOps
 - 🌱 I’m currently learning about container like Docker, Kubernetes, and CI/CD 
 - 💞️ I’m looking to collaborate on Programming to Build a Big Inovation Project
