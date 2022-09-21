@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=mhdramadhanarvin&show_icons=true)](https://github.com/mhdramadhanarvin)
 
-## Language Used
+## Programming Language
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdramadhanarvin&theme=vue">
