@@ -1,4 +1,7 @@
 ### Hi, I’m Madhan
+
+![Profile views](https://komarev.com/ghpvc/?username=mhdramadhanarvin&color=blueviolet&style=flat)
+
 - 👀 I’m interested in Programming and DevOps
 - 🌱 I’m currently learning about container like Docker, Kubernetes, and CI/CD 
 - 💞️ I’m looking to collaborate on Programming to Build a Big Inovation Project
